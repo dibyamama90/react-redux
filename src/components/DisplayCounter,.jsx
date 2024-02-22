@@ -8,4 +8,5 @@ const DisplayCounter = () => {
     </>
   );
 };
+
 export default DisplayCounter;
